@@ -1,2 +1,4 @@
 # hello-world
-Just the first repo
+Hello,
+
+Just learning GitHub!
